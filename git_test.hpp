@@ -9,4 +9,6 @@ int main()
   std::cout << "Hello, " << name << "!\n";
   
   std::cout << "This version is only local!\n";
+
+  std::cout << "This version is only remote!\n";
 }
